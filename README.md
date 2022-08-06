@@ -1,5 +1,5 @@
 # MBS-Model
-a Model to calculate the cashflows of a MBS incorporating prepayment speeds using PSA, CPR, and SMM. It also incporates servicing & guarantor fees using
+a Model to calculate the cashflows of a MBS passthrough incorporating prepayment speeds using PSA, CPR, and SMM. It also incporates servicing & guarantor fees using
 a Pass Through Rate
 
 <img width="490" alt="Screenshot 2022-08-05 at 16 56 22" src="https://user-images.githubusercontent.com/98121213/183163714-2273dbde-440b-47f1-b1ef-1e2ba8fa0324.png">
